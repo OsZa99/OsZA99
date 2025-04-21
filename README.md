@@ -1,4 +1,9 @@
 <img src="Github_Banner.png" alt="GitHub Banner" width="100%" />
+<br><br>
+
+# Hi there, I'm Ossama 👋
+
+**Master's student** at University of Toulouse 3 Paul Sabatier in Computer Science Applied to Business Management, specializing in Digital Transformation Engineering. Passionate about **DevOps technologies, Cloud computing, Java development, and microservice architectures**.
 
 # 💫 About Me:
 🔭 Currently looking for a 6-month internship as a DevOps Engineer or Java Developer<br>🌱 Improving my skills in Spring, Kubernetes, AWS, GitLab CI, Prometheus, Grafana, and microservice architectures<br>💬 Let's talk about DevOps, Cloud, CI/CD, Java and containerization, and automation<br>📫 Reach me at: ossama.zarani10@gmail.com<br>📍 Based in Toulouse, France
